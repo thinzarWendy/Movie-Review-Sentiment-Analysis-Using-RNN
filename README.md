@@ -5,7 +5,7 @@ This project is a web application that uses a Simple RNN model (with ReLU activa
 ## How to Run
 1. **Clone this repository:**
    ```bash
-    git clone https://github.com/your-username/Movie-Review-Sentiment-Analysis-Using-RNN.git
+    git clone https://github.com/thinzarWendy/Movie-Review-Sentiment-Analysis-Using-RNN.git
     cd Movie-Review-Sentiment-Analysis-Using-RNN
 
 2. **Install dependencies:**
